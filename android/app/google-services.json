@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664203654470",
+    "project_id": "readora-8cc74",
+    "storage_bucket": "readora-8cc74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664203654470:android:a30a868d6bb8173c9d6147",
+        "android_client_info": {
+          "package_name": "readora.r12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqpXxcc-nlZalhIXWUUXxyketDpWqhTdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
