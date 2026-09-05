@@ -1,6 +1,8 @@
 # FYP-READORA (A SOCIAL MEDIA PLATEFROM FOR READERS)
 Comsats University Final Year Project. A mobile application for readers with feature which derserve by the readers.
 
+# Installation, and run instructions 
+open github link  go too branch click on extention ha and go to code download the zip file  and extract it and open in vs code then st command pubgets and run command open in a debug mode by using andiod connectio way wire and app will run
 # Project Ownership & Copyright Notice
 
 ## Copyright Notice
